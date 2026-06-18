@@ -1,0 +1,410 @@
+Weyland-Yutani Corporation
+Tyrell Corporation
+Cyberdyne Systems
+Omni Consumer Products
+Oscorp Industries
+InGen
+Umbrella Corporation
+Wall-E Buy n Large
+Wallace Corporation
+Stark Industries
+Trask Industries
+LexCorp
+Wayne Enterprises
+RDA Corporation
+Soylent Corporation
+Rekall Inc
+K聯邦 (K-Federal)
+CHOAM
+Total Recall
+Memory Call Inc
+Blue Sun Corporation
+Aero-Space
+Yoyodyne Propulsion Systems
+TriOptimum Corporation
+TetraVaal
+Versalife
+Sarif Industries
+Tai Yong Medical
+Primatech Paper
+Delos Inc
+Aperture Science
+Black Mesa Research Facility
+Abstergo Industries
+Anvil Nexus
+Hyperion Corporation
+Manticore Industries
+Weyland Industries
+Shimizu Corporation
+Milgrom Corp
+Zorg Industries
+Blue Book
+Hudsucker Industries
+Lunar Industries
+Nakamura Robotics
+Zion Cybernetics
+Alchemax
+Praxis
+Omnicorp
+Fontaine Futuristics
+Ryan Industries
+Arasaka
+Militech
+Kang Tao
+Trauma Team International
+Kendachi
+Petrochem
+SovOil
+EuroBusiness Machines
+Network News 54
+Microtech
+Biotechnica
+Tsunami Defense
+Infocom Corp
+Nova Praxis
+Vanderbilt Aerospace
+Genesis Systems
+Synon
+Hyperdyne
+Chronos Corporation
+United Aerospace Corporation
+Union Aerospace Corporation
+Aesir Pharmaceuticals
+Asimov Robotics
+Automata Corp
+Bellerophon Technologies
+Bio-Synthesis Inc
+Biocorp
+ByteSize
+C-Core Systems
+Centauri Production
+Chiron Corporation
+Cortex Systems
+Cryonet Systems
+Cyber-Noodle
+DataDyne
+Deep Core Mining
+Devon Corporation
+DinoCo
+Dorado Aerospace
+Dreyfus Mining
+Dynacorp
+Edgars Industries
+Eisner Optoelectronics
+Eldorado Electronics
+Electro-Static Corp
+Elsinore Brewery
+Encom
+Epitaph Incorporated
+Erebus Defense
+ExoGeni
+Farbco Industries
+Federated Aerospace
+Fenner Technologies
+Fluorescent Black
+Fringe Science Inc
+Fujitsu-Siemens Heavy Industries
+Future-Tech
+Galactic Mining Corp
+Garland Industries
+Genom Corporation
+Geo-Thermal Energy Inc
+Global Dynamics
+GlobalTech
+Goliath National Bank
+Gundam Heavy Industries
+Hacker-Kraft
+Hale Corporation
+Haliwell Bio
+Hanso Foundation
+Harkonnen Refining
+Harrow Cybernetics
+Helix Pharmaceuticals
+Holloway Aerospace
+Horizon Galactic
+Horvath Mining
+Hoshi-Quantum
+Icarus Interstellar
+Imbrium Mining
+Imperial Biotech
+Inika Heavy Industries
+Interface Corp
+Interstellar Transport Corp
+Itex Corporation
+Jaeger-Lowe
+Jansen Biotech
+Jupiter Mining Corporation
+Kafrou Industries
+Kandor Science
+Kasei Robotics
+Kendall-Finch
+Kestrel Aerospace
+KinetiCorp
+Knights Armament Fiction
+Kobe Heavy Industries
+Krelborn Botanicals
+Krieger Scientific
+Kronos Digital
+Kurata Robotics
+Kuroshio Marine
+Kyowa Synthetic
+L-3 Quantum
+Labyrinth Solutions
+Lazarus Labs
+Legion Cybernetics
+Lextron
+Lightweight Composites
+Liandri Mining Corporation
+Lighthouse Media
+Lith-Tech
+Lockheed-Martin Future
+Loki Robotics
+Lonestar Interstellar
+Lucid Systems
+Lunar Mining & Metals
+LuvTek
+Lycus Bio
+M-Polymer
+Macrotech Industries
+Magma Energy
+Malmesbury Cybernetics
+Malory Archer Defense
+Mammoth Motors
+Marconi Space
+Mariana Deep Sea
+Marseille Bio-Tech
+MarsCorp
+Masamune Robotics
+Massive Dynamic
+Matrix Tech
+Mattel Future
+Maxis Cyber
+Maya-Antares
+McAslan Logistics
+McDonnell-Douglas Space
+MedTech Inc
+Mega-City One Energy
+Megacorp
+Melange Mining
+MemVantage
+Mendez Aerospace
+Mesa Robotics
+Meta-Cortex
+Micro-Global
+Mid-World Tech
+Mikimoto Electronics
+Minerva Medical
+Miracle-Gro Fiction
+Mitsubishi-Subaru Heavy
+Mizar Systems
+Monad Industries
+Morita Bio-Tech
+Morphic Fields
+Muller-Droste
+Multi-National United
+Mutant-Tech
+Nadi-X
+Nakamura-Takahashi
+Nano-Trone
+NanoMed
+Nash-Kelvinator Future
+Nautilus Subsea
+Nero Intelligence
+Nerva Aerospace
+Neuro-Link Corp
+New Horizons Space
+Nexus Genomics
+Nippon Cybernetics
+Nisshin Heavy
+Nodal Systems
+Nodens Pharmaceuticals
+Nordic Robotics
+Norg-Eastern
+Northrop Future
+Nova-Tech
+Novia Cybernetics
+Nuclear Energy Corp
+Nuovo-Biotech
+Nyx Technical
+Oasis Industries
+Oberon Space
+Oblivion Tech
+Oceanic Syntech
+Octan Corporation
+Okura Heavy Industries
+Olympus Biotech
+Omega Cybernetics
+Omni-Media
+Omicron Research
+Optic-Net
+Orbital-Air
+Origin-Systems
+Orion Heavy Industries
+Orpheus Medical
+Osiris Interstellar
+Overwatch Security
+Ozawa Heavy Industries
+Pacific-Rim Defense
+Paladin Security
+Pan-African Mining
+Pando Corp
+Pangaea Biotech
+PanGlactic
+Para-Medic
+Paragon Space
+Pax-Amalgamated
+Peng-Zheng Heavy Industries
+PharmaCom
+Phobos Mining
+Phoenix Medical
+Pinnacle Aerospace
+Plastoid Corp
+Polynesian Cybernetics
+Poseidon Energy
+PrismCorp
+Pro-Life Cybernetics
+Prometheus Labs
+Protogen
+ProxyCorp
+Psi-Corp
+Pyro-Light
+Q-Concepts
+Quad-Tech
+Quantum Leap Inc
+Quark-Gluon
+Quasar Industries
+Quest-Aero
+Quintessential Systems
+Quon-Tsun
+R-Omega
+Rad-Corp
+Ragnarok Defense
+Raleigh-Durham Future
+Raytheon Galactic
+Red Line Transit
+Regal Biotech
+Renraku
+Replicant Corp
+Resurgam Aerospace
+Rexxon
+Rhein-Ruhr Heavy
+Rhodes Technologies
+Rigel Mining
+Riker Interstellar
+Rinkaku Bio
+Rio-Tinto Future
+Robo-Rooter
+Robotics Consolidated
+Roche Diagnostics Future
+Rockwell Galactic
+Rostov Systems
+Roth-Schumacher
+Rovio Cyber
+Rowan-Genz
+S-Core
+Saeder-Krupp
+Saffron Bio
+Sagan Research
+Saito Robotics
+Salyut-Vostok
+Samara Heavy
+Samurai Cybernetics
+Sandoz Future
+Sanofi Galactic
+Sato-Koga
+Saturn Mining
+Savage-Tech
+Scania Future
+Schuller-Hydraulic
+Sci-Tech Corp
+Scylla Logistics
+Securitas Future
+Seiko-Citizen Heavy
+Seko Heavy Industries
+Sentient Robotics
+Seraphim Cybernetics
+Serendipity Inc
+Seta-Vanden
+Shao-Khai
+Sheng-Wu Bio
+Shiba Systems
+Shin-Ichi Aerospace
+Shin-Kobe Heavy
+Shine-Tech
+Shinra Electric Power Company
+Shiva Medical
+Siberian Tech
+Sidereal Technologies
+Siemens-Varta
+Sigma-Draconis
+Silicon Nexus
+Silph Co
+Silver-Line Aerospace
+Sino-Soviet Heavy
+Sinotech
+Sins-of-a-Solar
+Siren-Tech
+Sirius Cybernetics Corporation
+Sisko Engineering
+Siva-Tech
+Skynet
+Skyway Aerospace
+Sloane Defense
+Snyder-Cross
+Sol-Aero
+Solaris Mining
+Solmed
+Solyaris Heavy
+Somatech
+Sonex-Aero
+Sorensen Bio
+Soroush Robotics
+Sorrento Cybernetics
+Sovereign Aerospace
+Soviet-Galactic
+Soyuz-Space
+Space-X Future
+Spacely Space Sprockets
+Spatial-Systems
+Specter-Tech
+Spherion Corp
+Spindletop Future
+Spiridon Aerospace
+Standard-Hydrogen
+Star-Five
+Star-Line Logistics
+Stardust Mining
+Starlight Enterprises
+Stellar-Dynamics
+Steptoe Cybernetics
+Sterling-Cooper Future
+Strickland Industries
+Strontium Defense
+Sub-Oceanic
+Subaru-Grumman
+Sud-Aviation Future
+Suisse-Syntech
+Sukhoi Galactic
+Sulu-Tech
+Sumitomo-Nix
+Sun-Core
+Sunishi-Heavy
+Superior Robotics
+Surya-Tech
+Sutton-Bio
+Svalbard Genetic
+Svenska Tech
+Swarovski Optic Future
+Symbiote Corp
+Syn-Chron
+Syn-Tech
+Sync-Labs
+Syndicate-X
+Synergetics
+Synergy-Global
+Synocorp
+Synth-Corp
+Synthetic Life Corp
+Systech Industries
+Systems Alliance
+Szechuan Aerospace
